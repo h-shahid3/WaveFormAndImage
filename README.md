@@ -2,6 +2,8 @@
 
 This is a Java Project coded in IntelliJ IDEA, completed during a course on Multimedia Systems. It uses the software platform JavaFX to deliver a basic UI to interact with.
 
+The Java files used to code this project are contained within the src/sample folder.
+
 
 # Waveform Viewing
 
